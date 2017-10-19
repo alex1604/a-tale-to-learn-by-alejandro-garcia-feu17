@@ -1,1 +1,2 @@
-Our heroes Programmer and his assistant Coffee (and maybe we can thank the Guinea Pig as well…?) managed to reach JavaScripthalla where they now share a table with the Gods Javascript, HTML, CSS and Bootstrap and do what they can do best: create functional and beautiful responsive websites. 
+Our heroes Programmer and Coffee (and maybe we can thank the Guinea Pig as well…?) managed to reach JavaScripthalla where they now share a table with the gods Javascript, HTML, CSS and Bootstrap
+and do what they can do best: create functional, beautiful responsive websites.
