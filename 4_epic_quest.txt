@@ -1,1 +1,2 @@
-Coffee and Programmer were given a quest by the Programming Angel. Should they want to live still, they must reach the Mountain of the Python and walk across it to reach Javalhalla.
+Coffee and Programmer were given a quest by the Programming Angel. Should they want to live still, they must reach the Mountain 
+of the Python and walk across it to reach JavaScriptHalla.
