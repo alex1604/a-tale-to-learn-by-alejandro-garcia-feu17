@@ -1,2 +1,2 @@
-They began their way to JavalScriptHalla. They came across plains full of very difficult recursive algorithms, hills with impossible functions 
+They began their way to JavaScriptHalla. They came across plains full of very difficult recursive algorithms, hills with impossible functions 
 and seas full of weird objects and floating numbers. The seas were rough, the mountains sharp and the plains full of obsticles.
